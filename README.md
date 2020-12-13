@@ -1,0 +1,2 @@
+# AkuumaBOT
+just another repository
